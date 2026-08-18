@@ -1,0 +1,4 @@
+Hello! This is a new file.
+I am learning file Handling.
+Adding a new line here!
+I Love Python
